@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 
 class TestA
@@ -13,6 +13,7 @@ private:
     int val;
 };
 
+//a comment test added
 TestA changeValue(TestA insA, int x)
 {
     TestA insB(x+1);
