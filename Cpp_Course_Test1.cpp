@@ -28,6 +28,6 @@ int main(int argc, const char * argv[]) {
     //TestA insD(insC);
     insA.printVal();
     insC.printVal();
-    //insD.printVal();
+   
     return 0;
 }
